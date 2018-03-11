@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>The News</title>
+    <style>
+        .news-sel {
+            padding: 10px;
+            border-radius: 25px;
+            width: 100%;
+            font-size: 20px;
+            border: none;
+            cursor: pointer;
+            outline: none;
+            background-color: lightgray;
+            -webkit-transition: 0.5s;
+        }
+
+        .news-sel:hover {
+            background-color: rgb(150, 150, 150);
+        }
+    </style>
+    <script>
+        function msn() {
+            var newWindow = window.open("https://msn.com/", null, "height=450,width=800");
+        }
+    </script>
+</head>
+<body>
+    <center>
+        <h1>
+            The News
+        </h1>
+    </center>
+    <hr>
+    <button onclick="msn()" class="news-sel">
+        MSN
+    </button>
+</body>
+</html>

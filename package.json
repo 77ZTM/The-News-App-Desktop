@@ -1,0 +1,13 @@
+{
+  "name": "news",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Vince Richter",
+  "license": "MIT"
+}
