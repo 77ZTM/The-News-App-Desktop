@@ -6,7 +6,12 @@
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "pack": "build --dir"
+  },
+  "build": {
+    "appId": "tk.a77zsite.us.news",
+    "productName": "The News"
   },
   "author": "Vince Richter",
   "license": "MIT"
