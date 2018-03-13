@@ -1,9 +1,9 @@
 version: 0.0.1
 files:
   - url: news-setup-0.0.1.exe
-    sha512: 0QwQHv1iUskUiQpwlM9jI6y8eaYa70YBxH6HLvGKgEyz+Mp+bdKjqQQYfw3+Hx7WT8y3BlGEB8OQXyx46HTpBQ==
-    size: 35663012
+    sha512: 3kKRX4S8tnpisSR/UrLz3YRUwDuY/dsiDcfDYKC9FEWOdTlxfNiDpXf8tAZe4M1kzG2EKrsRQK9jq+TblQAdLw==
+    size: 35662623
 path: news-setup-0.0.1.exe
-sha512: 0QwQHv1iUskUiQpwlM9jI6y8eaYa70YBxH6HLvGKgEyz+Mp+bdKjqQQYfw3+Hx7WT8y3BlGEB8OQXyx46HTpBQ==
-sha2: a55e162ae4042e41026e202a724fa60f5cd48edf67c3cf82551fba6c30c7f89e
-releaseDate: '2018-03-12T19:55:58.383Z'
+sha512: 3kKRX4S8tnpisSR/UrLz3YRUwDuY/dsiDcfDYKC9FEWOdTlxfNiDpXf8tAZe4M1kzG2EKrsRQK9jq+TblQAdLw==
+sha2: 1e2b7e334f8aa9e05884b6fc50d42e0f61d137969ba4a56827eabfbf77de3675
+releaseDate: '2018-03-13T22:28:29.334Z'
