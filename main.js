@@ -43,3 +43,5 @@ app.on('activate', function () {
     createWindow();
   }
 })
+
+app.setAsDefaultProtocolClient(thenews);
