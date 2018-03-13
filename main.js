@@ -44,4 +44,4 @@ app.on('activate', function () {
   }
 })
 
-app.setAsDefaultProtocolClient(thenews);
+app.setAsDefaultProtocolClient("thenews");
